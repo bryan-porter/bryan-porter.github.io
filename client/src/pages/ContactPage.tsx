@@ -127,9 +127,9 @@ export default function ContactPage() {
               <div className="text-sm">
                 <p className="text-terminal-green">Alternative contact methods:</p>
                 <div className="ml-4 mt-2 space-y-1 text-terminal-green-dim">
-                  <p>• Email: <a href="mailto:jpgrigor@usc.edu" className="text-terminal-green hover:text-terminal-green-bright">jpgrigor@usc.edu</a></p>
-                  <p>• LinkedIn: <a href="https://linkedin.com/in/jakegrigorian" className="text-terminal-green hover:text-terminal-green-bright">linkedin.com/in/jakegrigorian</a></p>
-                  <p>• GitHub: <a href="https://github.com/jgrigorian23" className="text-terminal-green hover:text-terminal-green-bright">github.com/jgrigorian23</a></p>
+                  <p>• Email: <a href="mailto:bryan@bryan-porter.com" className="text-terminal-green hover:text-terminal-green-bright">bryan@bryan-porter.com</a></p>
+                  <p>• LinkedIn: <a href="https://www.linkedin.com/in/bryandporter/" className="text-terminal-green hover:text-terminal-green-bright">linkedin.com/in/bryandporter/</a></p>
+                  <p>• GitHub: <a href="https://github.com/bryan-porter" className="text-terminal-green hover:text-terminal-green-bright">github.com/bryan-porter</a></p>
                 </div>
               </div>
             </div>
