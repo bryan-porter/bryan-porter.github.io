@@ -132,7 +132,7 @@
     right: 0;
     height: 2px;
     background: linear-gradient(to right, transparent, var(--terminal-green), transparent);
-    animation: scanline 2s linear infinite;
+    animation: scanline 60s linear infinite;
     z-index: 10;
     pointer-events: none;
   }
@@ -200,7 +200,7 @@
   }
   
   .animate-scanline {
-    animation: scanline 2s linear infinite;
+    animation: scanline 60s linear infinite;
   }
   
   .animate-typewriter {
