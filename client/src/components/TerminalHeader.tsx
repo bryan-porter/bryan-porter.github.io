@@ -16,7 +16,7 @@ export default function TerminalHeader() {
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center space-x-2">
             <span className="text-terminal-amber">█</span>
-            <span className="terminal-glow text-lg">TERMINAL BLOG v2.1</span>
+            <span className="terminal-glow text-lg">TERMINAL BLOG </span>
             <span className="text-terminal-amber">█</span>
           </div>
           <div className="text-sm" data-testid="current-time">

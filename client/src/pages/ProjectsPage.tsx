@@ -11,46 +11,7 @@ export default function ProjectsPage() {
           <span className="ml-2">DIR /s</span>
         </div>
         
-        {/* Work Experience */}
-        <div className="ascii-border p-6 relative z-0">
-          <div className="pt-4 pb-2">
-            <div className="terminal-glow text-lg font-bold mb-4">WORK EXPERIENCE</div>
-            
-            <div className="space-y-4">
-              <div className="border border-terminal-green-dim p-4">
-                <div className="flex justify-between items-start mb-2">
-                  <div>
-                    <h3 className="text-terminal-amber font-bold">Amazon</h3>
-                    <p className="text-terminal-green">Incoming SDE Intern</p>
-                  </div>
-                  <div className="text-right text-sm text-terminal-green-dim">
-                    <p>May 2025 - Aug 2025</p>
-                    <p>Seattle, WA</p>
-                  </div>
-                </div>
-                <p className="text-terminal-green-dim">• Summer 2025 Software Development Internship</p>
-                <p className="text-terminal-green-dim">• Team assignment TBD</p>
-              </div>
-
-              <div className="border border-terminal-green-dim p-4">
-                <div className="flex justify-between items-start mb-2">
-                  <div>
-                    <h3 className="text-terminal-amber font-bold">Caltech</h3>
-                    <p className="text-terminal-green">Research Assistant</p>
-                  </div>
-                  <div className="text-right text-sm text-terminal-green-dim">
-                    <p>Research Period</p>
-                    <p>Computational Astrophysics</p>
-                  </div>
-                </div>
-                <p className="text-terminal-green-dim">• Published 2 papers in computational astrophysics</p>
-                <p className="text-terminal-green-dim">• Developed brown dwarf simulation software</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Projects */}
+        {/* Featured Projects */}
         <div className="ascii-border p-6 relative z-0">
           <div className="pt-4 pb-2">
             <div className="terminal-glow text-lg font-bold mb-4">FEATURED PROJECTS</div>

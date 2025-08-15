@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: "1",
     title: "Minimum effective dose",
-    slug: "a full body hybrid approach",
+    slug: "if you learn nothing else...",
     content:
       "Sleep, exercise, nutrition, and emotional care serve as the scaffolding  of health and happiness",
     excerpt: "Habits for maximizing health.",
@@ -25,28 +25,28 @@ export const blogPosts: BlogPost[] = [
   },
   {
     id: "2",
-    title: "My Caltech Research Journey in Computational Astrophysics",
-    slug: "caltech-research-journey",
+    title: "Exercise for health and output",
+    slug: "a hybrid approach to strength and endurance",
     content:
-      "My experience publishing papers in computational astrophysics and building brown dwarf simulation software at Caltech. Working with world-class researchers, I developed simulation code that models non-planetary brown dwarfs and contributed to groundbreaking research in the field.",
+      "You can only be excellent in 3 things: most people woudl choose family, work, and one more thing: pick that thing wisely.",
     excerpt:
-      "My experience publishing papers in computational astrophysics and building brown dwarf simulation software at Caltech.",
-    tags: ["RESEARCH", "ASTROPHYSICS", "PYTHON", "CALTECH"],
-    publishedAt: "2024-12-10T09:15:00",
+    "You can only be excellent in 3 things: most people woudl choose family, work, and one more thing: pick that thing wisely.",
+    tags: ["EXERCISE", "STRENGTH", "ENDURANCE", "HYBRID"],
+    publishedAt: "2025-08-15T14:30:00",
     isPublished: true,
-    fileSize: "3,072 bytes",
+    fileSize: "5,082 bytes",
   },
   {
     id: "3",
-    title: "Fullstack Development Tips from Startup Experience",
-    slug: "fullstack-development-tips",
+    title: "Sleep as a service to your brain and body",
+    slug: "nothing works if sleep is off",
     content:
-      "Lessons learned from building fullstack applications with React.js, Next.js, and PostgreSQL at USC and during my startup journey. From database design to user interface optimization, here are the key insights I've gained from real-world development experience.",
+      "Free and legal performance enhancer, consistent sleep will move the needle immediately.",
     excerpt:
-      "Lessons learned from building fullstack applications with React.js, Next.js, and PostgreSQL at USC and during my startup journey.",
+      "Stanford basketball team was asked to stay in bed for 10 hours for 5-7 weeks >> increased sleep by 80 mins to 8.5 hours, saw 9 ppt improvement in free throw and 3 point accuracy.",
     tags: ["REACT", "NEXTJS", "POSTGRESQL", "STARTUP"],
     publishedAt: "2024-12-05T16:45:00",
     isPublished: true,
-    fileSize: "1,536 bytes",
+    fileSize: "2,193 bytes",
   },
 ];

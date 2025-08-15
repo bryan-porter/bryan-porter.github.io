@@ -58,10 +58,8 @@ export default function ContactPage() {
             <div className="terminal-glow text-lg font-bold">GET IN TOUCH</div>
             
             <div className="text-terminal-green-dim space-y-2">
-              <p>Reach out if you'd like to see my full resume, demos for my startup,</p>
-              <p>or anything in between. I'm always looking for new opportunities for</p>
-              <p>internships, projects, and more - whether you have an inquiry or just</p>
-              <p>want to connect, I'm quick to respond!</p>
+              <p>Reach out if want to talk health, AI,</p>
+              <p>or just say hi. </p>
             </div>
 
             {/* Contact Form */}
@@ -69,7 +67,7 @@ export default function ContactPage() {
               <div className="text-terminal-amber">┌─ MESSAGE COMPOSITION ─┐</div>
               <form onSubmit={handleSubmit} className="space-y-3 ml-2">
                 <div>
-                  <label className="block text-sm text-terminal-green">To: jpgrigor@usc.edu</label>
+                  <label className="block text-sm text-terminal-green">To: bryan@bryan-porter.com</label>
                 </div>
                 <div>
                   <label className="block text-sm text-terminal-green mb-1">From:</label>
@@ -77,7 +75,7 @@ export default function ContactPage() {
                     type="email"
                     value={formData.from}
                     onChange={(e) => setFormData(prev => ({ ...prev, from: e.target.value }))}
-                    placeholder="your.email@domain.com"
+                    placeholder="bryan@bryan-porter.com"
                     className="w-full bg-terminal-bg border border-terminal-green p-2 text-terminal-green font-mono text-sm focus:outline-none focus:border-terminal-green-bright"
                     data-testid="email-input"
                   />

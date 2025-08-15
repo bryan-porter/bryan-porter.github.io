@@ -19,16 +19,14 @@ export default function HomePage() {
               <span className="text-terminal-green-dim">Hi, my name is</span>
             </div>
             <div className="text-2xl terminal-glow font-bold">
-              Jake Grigorian.
+              Bryan Porter.
             </div>
             <div className="text-xl text-terminal-green-dim">
-              I build software.
+              Time to build.
             </div>
             <div className="mt-4 space-y-1 text-terminal-green-dim">
-              <p>I'm a software engineer with experience in</p>
-              <p>research software, fullstack, and quantitative</p>
-              <p>development. Currently, I'm pursuing my B.S. in</p>
-              <p>Computer Science at USC.</p>
+              <p>I'm passionate about health </p>
+              <p>and AI. </p>
             </div>
             <div className="mt-4">
               <button 
@@ -50,7 +48,7 @@ export default function HomePage() {
         </div>
         <div className="text-sm space-y-1 mb-4">
           <div>Volume in drive C is BLOG</div>
-          <div>Volume Serial Number is 1337-BEEF</div>
+          <div>Volume Serial Number is 1337-BET</div>
           <div>Directory of C:\BLOG\POSTS</div>
           <div></div>
         </div>

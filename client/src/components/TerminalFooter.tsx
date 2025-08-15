@@ -8,7 +8,7 @@ export default function TerminalFooter() {
             <span className="text-terminal-green-dim ml-2">Ready</span>
           </div>
           <div className="text-terminal-green-dim">
-            Website Built by Jake Grigorian - Have a beautiful day
+            Website Built by Bryan Porter
           </div>
         </div>
       </div>

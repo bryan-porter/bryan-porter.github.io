@@ -85,7 +85,7 @@ export function useTerminal() {
       case 'cls':
         return 'clear';
       case 'exit':
-        return 'Thank you for visiting!';
+        return 'Be brave and kind!';
       default:
         // Check if it's a blog post command
         if (cmd.startsWith('type ') && cmd.endsWith('.md')) {
