@@ -8,6 +8,7 @@ import HomePage from "@/pages/HomePage";
 import AboutPage from "@/pages/AboutPage";
 import ProjectsPage from "@/pages/ProjectsPage";
 import ContactPage from "@/pages/ContactPage";
+import BlogPostPage from "@/pages/BlogPostPage";
 import NotFound from "@/pages/not-found";
 import { useTerminal } from "@/hooks/useTerminal";
 
@@ -18,6 +19,7 @@ function Router() {
       <Route path="/about" component={AboutPage} />
       <Route path="/projects" component={ProjectsPage} />
       <Route path="/contact" component={ContactPage} />
+      <Route path="/post/:slug" component={BlogPostPage} />
       <Route component={NotFound} />
     </Switch>
   );

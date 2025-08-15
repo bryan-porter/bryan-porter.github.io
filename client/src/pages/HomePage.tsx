@@ -1,4 +1,5 @@
 import { blogPosts, type BlogPost } from "@/data/blogPosts";
+import { Link } from "wouter";
 import CommandLine from "@/components/CommandLine";
 
 export default function HomePage() {
@@ -56,38 +57,42 @@ export default function HomePage() {
 
         <div className="grid gap-4">
           {posts?.map((post) => (
-            <article 
-              key={post.id}
-              className="border border-terminal-green p-4 hover:bg-terminal-dark-green transition-colors"
-              data-testid={`blog-post-${post.id}`}
-            >
-              <div className="flex justify-between items-start mb-2">
-                <div className="text-sm">
-                  <span className="text-terminal-amber">
-                    {new Date(post.publishedAt).toLocaleDateString('en-US', {
-                      month: '2-digit',
-                      day: '2-digit',
-                      year: 'numeric'
-                    })}  {new Date(post.publishedAt).toLocaleTimeString('en-US', {
-                      hour: '2-digit',
-                      minute: '2-digit',
-                      hour12: true
-                    }).toUpperCase()}
-                  </span>
-                  <span className="ml-4">&lt;DIR&gt;</span>
-                  <span className="ml-4 terminal-glow">{post.slug}.md</span>
+            <Link key={post.id} href={`/post/${post.slug}`} data-testid={`blog-post-link-${post.id}`}>
+              <article 
+                className="border border-terminal-green p-4 hover:bg-terminal-dark-green transition-colors cursor-pointer"
+                data-testid={`blog-post-${post.id}`}
+              >
+                <div className="flex justify-between items-start mb-2">
+                  <div className="text-sm">
+                    <span className="text-terminal-amber">
+                      {new Date(post.publishedAt).toLocaleDateString('en-US', {
+                        month: '2-digit',
+                        day: '2-digit',
+                        year: 'numeric'
+                      })}  {new Date(post.publishedAt).toLocaleTimeString('en-US', {
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        hour12: true
+                      }).toUpperCase()}
+                    </span>
+                    <span className="ml-4">&lt;DIR&gt;</span>
+                    <span className="ml-4 terminal-glow hover:text-terminal-green-bright">{post.slug}.md</span>
+                  </div>
+                  <span className="text-xs text-terminal-green-dim">{post.fileSize}</span>
                 </div>
-                <span className="text-xs text-terminal-green-dim">{post.fileSize}</span>
-              </div>
-              <div className="ml-8 text-sm text-terminal-green-dim">
-                <p>{post.excerpt}</p>
-              </div>
-              <div className="ml-8 mt-2">
-                <span className="text-xs">
-                  Tags: {post.tags.map(tag => `[${tag}]`).join(' ')}
-                </span>
-              </div>
-            </article>
+                <div className="ml-8 text-sm text-terminal-green-dim">
+                  <p>{post.excerpt}</p>
+                </div>
+                <div className="ml-8 mt-2">
+                  <span className="text-xs">
+                    Tags: {post.tags.map(tag => `[${tag}]`).join(' ')}
+                  </span>
+                </div>
+                <div className="ml-8 mt-2 text-xs text-terminal-amber">
+                  Click to open file →
+                </div>
+              </article>
+            </Link>
           ))}
         </div>
 

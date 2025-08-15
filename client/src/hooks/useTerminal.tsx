@@ -69,7 +69,7 @@ export function useTerminal() {
     
     switch(cmd) {
       case 'help':
-        return 'Available commands: dir, type, search, cls, exit';
+        return 'Available commands: dir, type [filename], search, cls, exit\nExample: type building-quantitative-models.md';
       case 'dir':
         setLocation('/');
         return 'Navigating to home directory...';
@@ -87,6 +87,12 @@ export function useTerminal() {
       case 'exit':
         return 'Thank you for visiting!';
       default:
+        // Check if it's a blog post command
+        if (cmd.startsWith('type ') && cmd.endsWith('.md')) {
+          const filename = cmd.substring(5, cmd.length - 3); // Remove 'type ' and '.md'
+          setLocation(`/post/${filename}`);
+          return `Opening ${filename}.md...`;
+        }
         return `'${command}' is not recognized as an internal or external command, operable program or batch file.`;
     }
   };

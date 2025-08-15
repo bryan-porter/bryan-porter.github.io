@@ -8,6 +8,7 @@ A personal portfolio and blog application built with a retro DOS terminal aesthe
 - **Terminal Aesthetics**: CRT screen effects, scanlines, and phosphor green text
 - **DOS Command Interface**: Functional command line with keyboard shortcuts
 - **Blog Posts**: Directory-style listing of blog posts with file metadata
+- **Blog Post Template**: Individual blog post pages with full content display
 - **Projects Portfolio**: Featured projects with links to GitHub and live demos
 - **Contact Form**: Terminal-styled contact form with mailto integration
 - **Responsive Design**: Works on desktop and mobile devices
@@ -86,10 +87,16 @@ The terminal interface supports these commands:
 - `help` - Show available commands
 - `dir` - Navigate to home/blog posts
 - `type about.txt` - View about page
-- `type projects.txt` - View projects page  
+- `type projects.txt` - View projects page
+- `type [filename].md` - Open specific blog post (e.g., `type building-quantitative-models.md`)
 - `mail` - Open contact form
 - `cls` - Clear command output
 - `exit` - Display goodbye message
+
+### Navigation
+- Click on any blog post box to open the full article
+- Use `ESC` key to go back to home from any page
+- Use arrow keys for quick navigation between main pages
 
 ## 🔧 Development
 
