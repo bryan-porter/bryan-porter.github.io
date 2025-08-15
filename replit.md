@@ -1,6 +1,14 @@
 # Overview
 
-This is a personal portfolio and blog application built with a retro terminal/DOS aesthetic. The application serves as Jake Grigorian's professional showcase, featuring blog posts, project portfolios, work experience, and contact functionality. The design mimics a vintage computer terminal interface with CRT screen effects, boot sequences, and DOS-style navigation commands.
+This is a personal portfolio and blog application built with a retro terminal/DOS aesthetic that can be deployed as a static site to GitHub Pages. The application serves as Jake Grigorian's professional showcase, featuring blog posts, project portfolios, work experience, and contact functionality. The design mimics a vintage computer terminal interface with CRT screen effects, boot sequences, and DOS-style navigation commands.
+
+## Recent Changes (Dec 2024)
+
+- Converted from full-stack to static site architecture for GitHub Pages deployment
+- Replaced API calls with static data files for blog posts and projects  
+- Updated contact form to use mailto links instead of server-side processing
+- Added GitHub Actions workflow for automatic deployment
+- Created build configuration for static hosting
 
 # User Preferences
 
@@ -37,17 +45,18 @@ The backend follows a RESTful API pattern using Express.js:
 The application uses a storage abstraction pattern with an interface (`IStorage`) that currently implements in-memory storage (`MemStorage`) with sample data, making it easy to swap to a database implementation later.
 
 ## Data Storage Solutions
-Currently implements in-memory storage with plans for database integration:
+Currently implements static data files for GitHub Pages deployment:
 
-- **Current**: In-memory storage with TypeScript interfaces
-- **Schema Definition**: Drizzle ORM schema definitions for PostgreSQL
-- **Database Setup**: Configured for PostgreSQL via Drizzle with connection string support
-- **Migration Support**: Drizzle Kit configured for schema migrations
+- **Current**: Static TypeScript data files in `client/src/data/`
+- **Blog Posts**: Hardcoded blog posts with metadata in `blogPosts.ts`
+- **Projects**: Hardcoded project information in `projects.ts`
+- **Contact**: Uses mailto links for direct email client integration
+- **Previous**: Original schema definitions for PostgreSQL remain available but unused in static build
 
-The schema includes three main entities:
+The data structure includes three main entities:
 - Blog posts with tags, publishing status, and metadata
-- Projects with tech stack and portfolio links
-- Contact messages with read status tracking
+- Projects with tech stack and portfolio links  
+- Contact form that generates mailto links
 
 ## Authentication and Authorization
 No authentication system is currently implemented. The application is designed as a public portfolio site with read-only access to blog posts and projects, and public contact form submission.

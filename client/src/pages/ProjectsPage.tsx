@@ -1,18 +1,7 @@
-import { useQuery } from "@tanstack/react-query";
-import { Project } from "@shared/schema";
+import { projects, type Project } from "@/data/projects";
 
 export default function ProjectsPage() {
-  const { data: projects, isLoading } = useQuery<Project[]>({
-    queryKey: ['/api/projects/featured'],
-  });
-
-  if (isLoading) {
-    return (
-      <div className="space-y-6" data-testid="projects-loading">
-        <div className="text-terminal-green-dim">Loading projects...</div>
-      </div>
-    );
-  }
+  const featuredProjects = projects.filter(project => project.featured);
 
   return (
     <div className="space-y-6" data-testid="projects-page">
@@ -67,7 +56,7 @@ export default function ProjectsPage() {
             <div className="terminal-glow text-lg font-bold mb-4">FEATURED PROJECTS</div>
             
             <div className="space-y-4">
-              {projects?.map((project) => (
+              {featuredProjects?.map((project) => (
                 <div 
                   key={project.id}
                   className="border border-terminal-green-dim p-4 hover:bg-terminal-dark-green transition-colors"

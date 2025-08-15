@@ -1,8 +1,11 @@
 import { useState } from "react";
-import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
-import { apiRequest } from "@/lib/queryClient";
-import { InsertContactMessage } from "@shared/schema";
+
+interface ContactMessage {
+  from: string;
+  subject: string;
+  message: string;
+}
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
@@ -11,30 +14,7 @@ export default function ContactPage() {
     message: "",
   });
   
-  const queryClient = useQueryClient();
   const { toast } = useToast();
-
-  const sendMessageMutation = useMutation({
-    mutationFn: async (data: InsertContactMessage) => {
-      const response = await apiRequest("POST", "/api/contact", data);
-      return response.json();
-    },
-    onSuccess: () => {
-      toast({
-        title: "Message sent successfully!",
-        description: "Thank you for reaching out. I'll get back to you soon.",
-      });
-      setFormData({ from: "", subject: "", message: "" });
-      queryClient.invalidateQueries({ queryKey: ['/api/contact'] });
-    },
-    onError: () => {
-      toast({
-        title: "Failed to send message",
-        description: "Please try again later.",
-        variant: "destructive",
-      });
-    },
-  });
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -45,7 +25,20 @@ export default function ContactPage() {
       });
       return;
     }
-    sendMessageMutation.mutate(formData);
+
+    // Create mailto link for static deployment
+    const subject = encodeURIComponent(formData.subject);
+    const body = encodeURIComponent(`From: ${formData.from}\n\n${formData.message}`);
+    const mailtoLink = `mailto:jpgrigor@usc.edu?subject=${subject}&body=${body}`;
+    
+    window.open(mailtoLink, '_blank');
+    
+    toast({
+      title: "Opening your email client...",
+      description: "The message has been prepared. Please send it from your email client.",
+    });
+    
+    setFormData({ from: "", subject: "", message: "" });
   };
 
   const handleReset = () => {
@@ -114,11 +107,10 @@ export default function ContactPage() {
                 <div className="flex space-x-4">
                   <button 
                     type="submit"
-                    disabled={sendMessageMutation.isPending}
-                    className="border border-terminal-green px-6 py-2 hover:bg-terminal-green hover:text-terminal-bg transition-colors disabled:opacity-50"
+                    className="border border-terminal-green px-6 py-2 hover:bg-terminal-green hover:text-terminal-bg transition-colors"
                     data-testid="send-button"
                   >
-                    <span className="text-terminal-amber">[F2]</span> {sendMessageMutation.isPending ? 'SENDING...' : 'SEND'}
+                    <span className="text-terminal-amber">[F2]</span> SEND
                   </button>
                   <button 
                     type="button"

@@ -1,19 +1,8 @@
-import { useQuery } from "@tanstack/react-query";
-import { BlogPost } from "@shared/schema";
+import { blogPosts, type BlogPost } from "@/data/blogPosts";
 import CommandLine from "@/components/CommandLine";
 
 export default function HomePage() {
-  const { data: posts, isLoading } = useQuery<BlogPost[]>({
-    queryKey: ['/api/posts'],
-  });
-
-  if (isLoading) {
-    return (
-      <div className="space-y-6" data-testid="home-loading">
-        <div className="text-terminal-green-dim">Loading blog posts...</div>
-      </div>
-    );
-  }
+  const posts = blogPosts;
 
   return (
     <div className="space-y-6" data-testid="home-page">
@@ -75,11 +64,11 @@ export default function HomePage() {
               <div className="flex justify-between items-start mb-2">
                 <div className="text-sm">
                   <span className="text-terminal-amber">
-                    {post.publishedAt.toLocaleDateString('en-US', {
+                    {new Date(post.publishedAt).toLocaleDateString('en-US', {
                       month: '2-digit',
                       day: '2-digit',
                       year: 'numeric'
-                    })}  {post.publishedAt.toLocaleTimeString('en-US', {
+                    })}  {new Date(post.publishedAt).toLocaleTimeString('en-US', {
                       hour: '2-digit',
                       minute: '2-digit',
                       hour12: true
