@@ -1,6 +1,6 @@
 # Retro Terminal Blog
 
-A personal portfolio and blog application built with a retro DOS terminal aesthetic, inspired by Jake Grigorian's portfolio design. This static site combines vintage computer terminal styling with modern web technology.
+Throwback to my first computer - a 386 with 5.25 inch floppy dirve running DOS.
 
 ## 🖥️ Features
 
@@ -115,4 +115,3 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-*Have a beautiful day* ✨
