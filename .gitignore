@@ -1,6 +1,19 @@
+# Node modules (for projects subdirectory)
 node_modules
 dist
 .DS_Store
 server/public
 vite.config.ts.*
 *.tar.gz
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+
+# Ruby
+.bundle
+*.gem
