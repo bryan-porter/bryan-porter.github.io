@@ -1,41 +1,81 @@
 ---
 layout: post
-title: "Welcome to My Blog"
-description: An introduction to my personal blog on technology, finance, and investing
-date: 2025-01-15 10:00:00 -0800
-feature_image: images/desk.jpg
-tags: [welcome, about]
+title: Welcome
+date: 2025-10-08 10:00:00 -0800
+tags: [health, ai, investing]
 ---
 
-Welcome! I'm excited to launch this blog as a space to share my thoughts and insights on technology, finance, and investing.
+# strong convictions, loosely held
 
-<!--more-->
+In the essay "The Fixation of Belief", Charles Sanders Peirce argued that inquiry begins with doubt and progresses through experimentation and reasoning — meaning beliefs should be held tentatively, always open to revision when confronted with new evidence. This set the intellectual foundation for “strong convictions, loosely held.” 
 
-## What You'll Find Here
+This blog seeks to publish information that the author finds useful, but when the facts change, hopefully we can change our minds.  to that end, please reach out if you have a different point of view, and I will be grateful for the insight.  I'm not a doctor and this is not medical advice, hopefully it's helpful, feel free to delete.    
 
-This blog will explore topics at the intersection of technology and finance:
 
-**Technology & Development**
-- Modern software development practices
-- Data analysis and visualization techniques
-- Tools and frameworks that drive innovation
 
-**Finance & Investing**
-- Market analysis and investment strategies
-- Quantitative approaches to decision-making
-- Exploring financial technology and fintech trends
 
-**Personal Projects**
-- Building tools and applications
-- Experiments and learnings from side projects
-- [Check out my retro terminal portfolio](/projects) for interactive demos
 
-## About This Site
 
-This site combines a clean, minimal blog with a unique retro terminal interface. The blog uses the beautiful [Scriptor theme](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) by JustGoodThemes, while my projects section features a nostalgic DOS-style interface for a fun contrast.
 
-## Let's Connect
+## RESOURCES
 
-I'm passionate about learning and sharing knowledge. Feel free to explore the site and check back regularly for new posts on topics that interest me—and hopefully you too.
 
-Thanks for stopping by!
+
+#### Wim Hof breathing 
+
+https://www.youtube.com/watch?v=Cuxppurd-tw
+
+Cyclic breathing resets the nervous system
+
+
+
+#### Family secret smoothie recipe
+
+[link]  
+
+
+
+#### Training for the Uphill Athlete: A Manual for Mountain Runners and Ski Mountaineers
+
+https://uphillathlete.com/
+
+Author Scott Johnston coached the top male and female of this year's UTMB and the book was co-authored by Kilian Jornet 
+
+...also his bonus core workout (thoughts and prayers): https://www.youtube.com/watch?v=IKqpbU1Y3bU 
+
+
+
+#### Some Work All Play podcast 
+
+https://podcasts.apple.com/us/podcast/some-work-all-play/id1521532868
+
+Megan and David Roche - science and love of running
+
+
+
+#### Gordo Byrn Youtube channel
+
+https://www.youtube.com/@feelthebyrn
+
+Technical training tips 
+
+
+
+
+
+you are loved 
+
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-62ac-6230-a333-0b9be29604d4/raw?se=2025-10-08T14%3A59%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=7346acf8-ea2d-5a8c-b0f7-6e7cadfadbac&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-08T12%3A51%3A15Z&ske=2025-10-09T12%3A51%3A15Z&sks=b&skv=2024-08-04&sig=oSPeOeTA7uu20WZvQBfI9jbPBCMI7nGVBQRHfxvGZsM%3D" alt="Generated image" style="zoom: 10%;" /> 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
