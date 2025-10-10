@@ -1,38 +1,104 @@
 ---
-layout: page
-title: About
-description: Learn more about Bryan Porter and this blog
-feature_image: images/about.jpg
+layout: post
+title:  "From Chaos to Clarity: The Discipline of Reinvention"
+date:   2025-10-09
+excerpt: "How I chose to grow through the cracks — not by avoiding chaos, but by mastering it."
+tags: ["reinvention","discipline","mindset","health"]
 ---
 
-Hi, I'm **Bryan Porter**. Welcome to my personal blog where I explore topics at the intersection of technology, finance, and data-driven decision making.
+> “Reinvention isn’t a single act — it’s a practice. You don’t need perfect conditions. You just need to decide: orchid or weed.”
 
-## What I Do
+## From Chaos to Clarity: The Discipline of Reinvention
 
-I'm passionate about using technology and data to solve real-world problems. My interests span software development, quantitative analysis, financial markets, and building tools that make complex topics more accessible.
+I grew up in a neighborhood where most people didn’t make it out.  
+Two overdoses around the block. A friend who killed his one-year-old child. Another who killed himself. My sister tried too.  
 
-## My Focus Areas
+My mom worked at 7-Eleven and brought home expired candy.  When my parents divorced, I drifted — feral kid. At sixteen I saved $200 from flipping burgers to buy a car. Nobody told me to go to college. The only advice I got was that I was a loser.
 
-**Technology & Development**
-I enjoy working with modern web technologies, data visualization, and creating clean, functional applications. Check out my [retro terminal portfolio](/projects) to see some of my projects in action.
+If you ran this experiment a thousand times, 999 end in a gutter ball.
 
-**Finance & Investing**
-I'm fascinated by financial markets and investment strategies. I believe in combining fundamental analysis with quantitative approaches to make better-informed decisions.
+At some point I had to decide: **am I an orchid or a weed?**  
+An orchid needs perfect conditions to grow. A weed grows through concrete. I chose the latter.
 
-**Data & Analytics**
-From building dashboards to running statistical analyses, I love finding insights hidden in data and presenting them in clear, actionable ways.
+---
 
->The best investment you can make is in yourself. The more you learn, the more you earn. <cite>Warren Buffett</cite>
+## The Moment Everything Changed
 
-## About This Site
+At 21, my life collapsed in 72 hours.  
+- A close friend took his own life.  
+- My dad told me I was ruining mine.  
+- I came home; my mom had packed my stuff and thrown it in my car.  
+- I ran from my stepdad trying to knock me out. That night, I slept in a closet at the radio station where I worked.
 
-This blog is built with Jekyll using the excellent [Scriptor theme](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) by JustGoodThemes. The site also features a unique DOS-style terminal interface in the [Projects](/projects) section—a nostalgic nod to early computing that showcases some of my work.
+It’s strange, but that chaos brought clarity.
 
-## Get in Touch
+I realized I couldn’t change incrementally — the noise in my head was too loud. I had to do something **absurdly different** to reach escape velocity. So I blew it up: quit music, left my friends, and started over.
 
-I'm always interested in connecting with like-minded people. Feel free to reach out:
+> “If you realize you’re headed toward the wrong destination, even if you’re 95% of the way there, turn around.”  
+> — Bill Gates
 
-- **GitHub**: [github.com/bryan-porter](https://github.com/bryan-porter)
-- **Email**: your-email@example.com
+That’s what reinvention is: the willingness to make a U-turn even when it hurts.
 
-*Thanks for visiting!*
+---
+
+## Reinvention Starts with the Body
+
+The first thing I changed wasn’t my résumé — it was my body.  
+I stopped doing things that destroy. I started drinking water. I moved.
+
+Over time, those tiny choices built momentum. Each healthy decision compounded into a little more energy, a little more focus, a little more self-respect.
+
+I didn’t realize it then, but I was learning one of the most powerful truths of my life:  
+> “The way you treat your body is how you train your mind.”
+
+Health draws on the power of compounding.  
+Would you rather have \$1 million today, or a penny that doubles every day for a month? That penny becomes \$21.5 million.  
+Your habits work the same way. Each rep, each clean meal, each night of sleep — tiny deposits into a savings account that pays out in clarity, confidence, and capacity.
+
+---
+
+## The Discipline of Reinvention
+
+Discipline gets romanticized — people think it’s about grinding harder than everyone else.  
+It’s not. It’s about **alignment**.
+
+Discipline is doing what your future self would thank you for, not what your present self feels like.  
+It’s not punishment — it’s love expressed through consistency.
+
+Here’s what I’ve learned:
+
+### 1. Lower the Bar Until You Can Do It Every Day  
+Momentum beats intensity. The goal isn’t a perfect sprint — it’s sustainable forward motion.
+
+### 2. Mood Follows Action  
+If you wait for motivation, you’ll never start. Action drives emotion, not the other way around.  
+Put your shoes on, get outside, start walking. The rest follows.
+
+### 3. Train Through the Chaos  
+Life never gets easier — you just get stronger. Exercise taught me how to suffer productively. Every rep is a rehearsal for discomfort elsewhere in life.
+
+### 4. Redefine Progress  
+Progress isn’t how fast you move; it’s how often you show up.  
+Consistency compounds. Consistency is freedom.
+
+---
+
+## The ROI of Reinvention
+
+Health became my anchor. It gave me energy to study, to build skills, to find mentors, and to eventually land on Wall Street — the same skyline I used to stare at from Newark, wondering if I’d ever belong.
+
+That journey wasn’t about getting fit; it was about learning to direct chaos into creation.
+
+When people ask why I’m so disciplined, I tell them the truth:  
+> “Because I know what happens when I’m not.”
+
+---
+
+## Closing Thought
+
+Reinvention isn’t a finish line — it’s a practice.  
+It’s saying _“I’m not my past”_ and proving it through daily behavior.  
+You don’t need perfect conditions. You just need to decide: orchid or weed.  
+Grow where you are. Through the cracks if you have to.  
+That’s how chaos becomes clarity.
+

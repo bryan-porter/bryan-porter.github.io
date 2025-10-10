@@ -13,6 +13,8 @@ This blog seeks to publish information that the author finds useful, but when th
 
 
 
+![image-20251009164730054](C:\Users\Bryan\AppData\Roaming\Typora\typora-user-images\image-20251009164730054.png)
+
 
 
 
@@ -23,7 +25,7 @@ This blog seeks to publish information that the author finds useful, but when th
 
 #### Wim Hof breathing 
 
-https://www.youtube.com/watch?v=Cuxppurd-tw
+[https://www.youtube.com/watch?v=Cuxppurd-tw](https://www.youtube.com/watch?v=Cuxppurd-tw)
 
 Cyclic breathing resets the nervous system
 
@@ -37,17 +39,17 @@ Cyclic breathing resets the nervous system
 
 #### Training for the Uphill Athlete: A Manual for Mountain Runners and Ski Mountaineers
 
-https://uphillathlete.com/
+[https://uphillathlete.com/](https://uphillathlete.com/)
 
 Author Scott Johnston coached the top male and female of this year's UTMB and the book was co-authored by Kilian Jornet 
 
-...also his bonus core workout (thoughts and prayers): https://www.youtube.com/watch?v=IKqpbU1Y3bU 
+...also his bonus core workout (thoughts and prayers): [https://www.youtube.com/watch?v=IKqpbU1Y3bU](https://www.youtube.com/watch?v=IKqpbU1Y3bU) 
 
 
 
 #### Some Work All Play podcast 
 
-https://podcasts.apple.com/us/podcast/some-work-all-play/id1521532868
+[https://podcasts.apple.com/us/podcast/some-work-all-play/id1521532868](https://podcasts.apple.com/us/podcast/some-work-all-play/id1521532868)
 
 Megan and David Roche - science and love of running
 
@@ -55,9 +57,13 @@ Megan and David Roche - science and love of running
 
 #### Gordo Byrn Youtube channel
 
-https://www.youtube.com/@feelthebyrn
+[https://www.youtube.com/@feelthebyrn](https://www.youtube.com/@feelthebyrn)
 
 Technical training tips 
+
+
+
+
 
 
 

@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Bryan Porter"
+title: "Strong convictions loosely held"
 
 # A description of your site for meta tag, search engine results.
 description: "Personal blog on technology, finance, and investing"
@@ -41,7 +41,7 @@ navigation:
 disqus: ""
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#d1d5db'
 
 # Site footer
 footer:
