@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-date: 2025-10-08 10:00:00 -0800
+date: 2025-01-15 10:00:00 -0800
 tags: [health, ai, investing]
 ---
 
