@@ -13,9 +13,7 @@ This blog seeks to publish information that the author finds useful, but when th
 
 
 
-![image-20251009164730054](C:\Users\Bryan\AppData\Roaming\Typora\typora-user-images\image-20251009164730054.png)
-
-
+![Welcome](../images/bridge.jpg)
 
 
 
@@ -69,19 +67,9 @@ Technical training tips
 
 
 
-you are loved 
+...you are loved 
 
-<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-62ac-6230-a333-0b9be29604d4/raw?se=2025-10-08T14%3A59%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=7346acf8-ea2d-5a8c-b0f7-6e7cadfadbac&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-08T12%3A51%3A15Z&ske=2025-10-09T12%3A51%3A15Z&sks=b&skv=2024-08-04&sig=oSPeOeTA7uu20WZvQBfI9jbPBCMI7nGVBQRHfxvGZsM%3D" alt="Generated image" style="zoom: 10%;" /> 
-
-
-
- 
-
-
-
-
-
-
+<img src="../images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
 
 
 
