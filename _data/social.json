@@ -9,6 +9,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/bryandporter/"
+    },
+    {
+      "title": "Strava",
+      "icon": "fa-strava",
+      "url": "https://www.strava.com/athletes/106343089"
     }
   ]
 }
