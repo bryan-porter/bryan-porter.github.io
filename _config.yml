@@ -12,7 +12,7 @@ lang: en-US
 title: "Strong convictions loosely held"
 
 # A description of your site for meta tag, search engine results.
-description: "Personal blog on technology, finance, and investing"
+description: "This is the space where I share what I've learned (and what I'm still figuring out)"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
