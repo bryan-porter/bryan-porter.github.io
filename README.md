@@ -81,11 +81,17 @@ The rest of your post content goes here...
 
 For optimal website performance, compress images before adding them to the site:
 
-**Recommended tool**: [Squoosh](https://squoosh.app/editor)
-- Web-based image compression tool
-- Supports multiple formats (WebP, JPEG, PNG, etc.)
-- Adjustable quality settings
-- Side-by-side comparison
+**Recommended tools**:
+- **[Squoosh](https://squoosh.app/editor)** - Image compression
+  - Web-based image compression tool
+  - Supports multiple formats (WebP, JPEG, PNG, etc.)
+  - Adjustable quality settings
+  - Side-by-side comparison
+
+- **[iLoveIMG](https://www.iloveimg.com/crop-image)** - Image cropping
+  - Easy-to-use crop tool
+  - Batch processing support
+  - Maintains image quality
 
 ## 🎨 Customization
 
