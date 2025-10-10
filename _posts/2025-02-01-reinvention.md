@@ -18,7 +18,7 @@ My mom worked at 7-Eleven and brought home expired candy.  When my parents divor
 If you ran this experiment a thousand times, 999 end in a gutter ball.
 
 At some point I had to decide: **am I an orchid or a weed?**  
-An orchid needs perfect conditions to grow. A weed grows through concrete. I chose the latter.
+An orchid needs perfect conditions to grow. A weed grows through concrete. I am naturally an orchid but had to learn to be a weed. 
 
 ---
 
@@ -35,7 +35,7 @@ It’s strange, but that chaos brought clarity.
 I realized I couldn’t change incrementally — the noise in my head was too loud. I had to do something **absurdly different** to reach escape velocity. So I blew it up: quit music, left my friends, and started over.
 
 > “If you realize you’re headed toward the wrong destination, even if you’re 95% of the way there, turn around.”  
-> — Bill Gates
+> — Misattributed to Bill Gates
 
 That’s what reinvention is: the willingness to make a U-turn even when it hurts.
 
