@@ -77,6 +77,16 @@ Your opening paragraph here. This will show in the excerpt.
 The rest of your post content goes here...
 ```
 
+## 🖼️ Image Optimization
+
+For optimal website performance, compress images before adding them to the site:
+
+**Recommended tool**: [Squoosh](https://squoosh.app/editor)
+- Web-based image compression tool
+- Supports multiple formats (WebP, JPEG, PNG, etc.)
+- Adjustable quality settings
+- Side-by-side comparison
+
 ## 🎨 Customization
 
 ### Site Configuration
