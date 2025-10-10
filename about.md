@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-# <img src="C:\Users\Bryan\Documents\my-projects\bryan-porter.github.io\images\about.png" alt="about" style="zoom:50%;" />
+![About](/images/about.png)
 
 I’ve spent most of my life learning how to perform under pressure — sometimes by choice, sometimes by necessity.  
 
