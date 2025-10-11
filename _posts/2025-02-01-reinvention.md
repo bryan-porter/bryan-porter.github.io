@@ -8,6 +8,10 @@ tags: ["reinvention","discipline","mindset","health"]
 
 > “Reinvention isn’t a single act — it’s a practice. You don’t need perfect conditions. You just need to decide: orchid or weed.”
 
+<img src="../images/sun and trees.jpg" alt="you are loved" style="width: 500px; display: block; margin-left: 0;">
+
+
+
 ## From Chaos to Clarity: The Discipline of Reinvention
 
 I grew up in a neighborhood where most people didn’t make it out.  
@@ -101,4 +105,16 @@ It’s saying _“I’m not my past”_ and proving it through daily behavior.
 You don’t need perfect conditions. You just need to decide: orchid or weed.  
 Grow where you are. Through the cracks if you have to.  
 That’s how chaos becomes clarity.
+
+
+
+
+
+...you are loved 
+
+<img src="../images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
+
+
+
+
 

@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-![About](images/about.png)
+![About](/images/about.png)
 
 I’ve spent most of my life learning how to perform under pressure — sometimes by choice, sometimes by necessity.  
 
@@ -59,7 +59,7 @@ If something here resonates or even better if you have a variant view, reach out
 
 ...you are loved 
 
-<img src="images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
+<img src="/images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
 
 
 

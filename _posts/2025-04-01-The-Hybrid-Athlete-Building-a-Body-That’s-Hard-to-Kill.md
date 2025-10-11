@@ -54,3 +54,13 @@ I think of training like portfolio construction:
 
 Your body *is* a portfolio. Consistency is the compound interest.  
 
+
+
+
+
+...you are loved 
+
+<img src="../images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
+
+
+

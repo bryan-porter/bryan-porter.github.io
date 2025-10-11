@@ -6,10 +6,9 @@ excerpt: "Motivation is unreliable. Momentum isn’t. Here’s how to move when 
 tags: ["discipline","mindset","momentum","behavioral-design","health"]
 ---
 
-<figure class="post-hero">
-  <img src="/assets/images/essays/mood-follows-action-hero.jpg" alt="Runner lacing shoes in early morning light">
-  <figcaption>Action before emotion.</figcaption>
-</figure>
+
+
+<img src="../images/jump.jpg" alt="jump" style="width: 500px; display: block; margin-left: 0;">
 
 
 > “If you wait until you feel ready, you’ll never start.”
@@ -66,4 +65,15 @@ Do 10 squats after you brush your teeth. Write one sentence after your morning c
 The context cues the behavior automatically.
 
 ### 3. **Measure What Matters**
-Track streak
+Track streak. 
+
+
+
+
+
+...you are loved 
+
+<img src="../images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
+
+
+
