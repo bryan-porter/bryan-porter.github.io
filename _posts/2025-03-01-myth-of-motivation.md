@@ -8,7 +8,7 @@ tags: ["discipline","mindset","momentum","behavioral-design","health"]
 
 
 
-<img src="../images/jump.jpg" alt="jump" style="width: 500px; display: block; margin-left: 0;">
+<img src="../images/sun.jpg" alt="jump" style="width: 500px; display: block; margin-left: 0;">
 
 
 > “If you wait until you feel ready, you’ll never start.”
