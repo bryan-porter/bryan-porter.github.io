@@ -7,7 +7,7 @@ tags: ["training","longevity","health","hybrid-athlete","performance"]
 ---
 
 <figure class="post-hero">
-  <img src="../images/water.jpg" alt="power">
+  <img src="../images/hybrid-af.jpeg" alt="power">
   <figcaption>Fit enough to endure. Strong enough to recover.</figcaption>
 </figure>
 
