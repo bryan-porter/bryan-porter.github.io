@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mood Follows Action: How to Build Momentum When Motivation Fails"
-date:   2025-03-01
+date:   2025-03-09
 excerpt: "Motivation is unreliable. Momentum isn’t. Here’s how to move when you don’t feel like it — and why action is the antidote to hesitation."
 tags: ["discipline","mindset","momentum","behavioral-design","health"]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Hybrid Athlete: Building a Body That’s Hard to Kill"
-date:   2025-04-01
+date:   2025-04-04
 excerpt: "Strength and endurance aren’t opposites — they’re allies. The goal isn’t specialization. It’s adaptability. Here’s how to build a body that performs anywhere."
 tags: ["training","longevity","health","hybrid-athlete","performance"]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Chaos to Clarity: The Discipline of Reinvention"
-date:   2025-02-01
+date:   2025-02-12
 excerpt: "How I chose to grow through the cracks — not by avoiding chaos, but by mastering it."
 tags: ["reinvention","discipline","mindset","health"]
 ---
