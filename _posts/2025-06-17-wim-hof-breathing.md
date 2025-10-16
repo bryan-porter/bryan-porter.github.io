@@ -12,17 +12,25 @@ tags: ["breathwork","nervous system","stress","recovery","health"]
 </figure>
 
 
-
-
 > “Breathe consciously and you improve the deepest systems that normally run on autopilot.”
 
 ## Why
 
 Wim calls it getting high on your own supply, expect euphoria.
 
-Everyone is different but I get inspiration every time, insights for what I'm wrestling with.  Some people get that when running or walking in nature. It's so clear and so right I am still surprised by it.
+Processing the suicide of his wife and the weight of raising four young children alone, Wim Hof turned inward.
+He drew on **Tummo** (Tibetan inner-heat meditation) and **Pranayama** breathing, pairing them with ice baths in the frozen canals of the Netherlands.
 
-If that doesn't come for you don't get discouraged.    
+He found stillness, 
+
+In 2014, science caught up.
+A controlled study injected a group with **endotoxin (E. coli)** and confirmed his anecdotes:
+
+- **Reduced inflammatory markers** (*IL-6, TNF-α*)
+- **Higher epinephrine (adrenaline)**
+- **Fewer flu-like symptoms**
+
+Everyone’s experience is different, but nearly every session brings something — a flash of clarity about what I’m wrestling with. The insight feels so pure, so precise, it still surprises me.
 
 Modern life keeps the nervous system half-pressed on the gas—constant notifications, low-grade anxiety, caffeine before stillness.  
 Wim Hof breathing flips that script.
@@ -43,12 +51,12 @@ It’s interval training for your nervous system—stress, release, stress, rele
 
 The videos below will talk you through like this:
 
-1. **Get still.** Sit or lie down somewhere safe. Never near water or while driving.  
+1. **Get still.** Sit or lie down somewhere safe. Never near water or while driving.  Bonus points in the sauna with a towel under seat and head.   
 2. **Breathe in deeply through the nose (preferably) or mouth.** Exhale without forcing.  
-   - **30–40 breaths**, like waves: (very) full inhale deep in the belly and then a final thrust into the chest, relaxed partial (50-75%) exhale.  
-3. **After the last exhale, hold for 45 seconds / build to 2:30 mins with experience.**  
+   - **30–40 breaths**, like waves: (very) full inhale deep in the belly and then a final thrust into the chest, relaxed partial (70-80%) exhale.  
+3. **After the last exhale, hold for 1 min / build to 2:30 mins with experience.**   
    - Stay calm. Notice stillness. You might feel warmth, tingling, lightness.  
-   - Hold until your body naturally wants to breathe.  
+   - Hold until your body naturally wants to breathe.  Okay to take a small (10%) to extend duration if needed.  
 4. **Inhale fully and hold again for 10–30 seconds.**  
    - Squeeze the belly, then the neck, then the head, draining lymph nodes and moving energy.  
    - Feel the calm pressure return, then release.  
@@ -74,4 +82,19 @@ Training the breath is training the system that runs everything else.
 
 ---
 
-*Disclaimer: This post is for educational purposes only. Consult your physician before beginning any breath-holding or hyperventilation practice, especially if you have cardiovascular or respiratory conditions.*
+### Guided videos
+
+New to Wim [try this](https://youtu.be/tybOi4hjZFQ)
+
+Advanced [try this](https://youtu.be/Cuxppurd-tw) 
+
+Tutorial [here](https://www.youtube.com/watch?v=nzCaZQqAs9I)
+
+---
+
+Disclaimer: This post is for educational purposes only. Consult your physician before beginning any breath-holding or hyperventilation practice, especially if you have cardiovascular or respiratory conditions.
+
+- *Don't take the method and techniques too lightly, they go deep and the effects can have a huge impact.*
+- *Don't do the breathing exercises in a swimming pool, before going underwater, beneath the shower or piloting any vehicle, without proper supervision. Always practice in a safe environment.*
+- *Keep in mind to do the exercises without forcing them, gradually build up, and don't exceed your limits.*
+- *Note that tinnitus symptoms may appear as a result of pushing too forcefully during the breathing exercise. If this happens, take a step back in your future practice, it’s important to increase gradually, not forcefully.*

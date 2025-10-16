@@ -98,7 +98,7 @@ Cut fat too low for too long and your mood, sleep, and sex hormones crash.
 
 Forget the pharma shortcut. Your body already makes GLP-1 — the same satiety hormone behind drugs like Ozempic. You just have to feed the mechanism:  
 
-- **Whey protein** 20g before meals  
+- **Protein** <20g before meals  
 - **Olive oil and nuts** for unsaturated fats  
 - **Fermented foods + fiber** for gut signaling  
 - **Green-leafy thylakoids** (spinach, kale) to delay fat digestion  
@@ -109,8 +109,8 @@ Small shifts, massive leverage.
 
 ## Hydration: The Hidden Variable
 
-Most people walk around 1–2% dehydrated — enough to drop cognitive performance and endurance by double digits.  
+Most people walk around 1–2% dehydrated — enough to drop endurance and cognitive performance by double digits.  
 
 - **Baseline:** 35ml per kg of body weight (~2.5L daily)  
-- **Add:** 1L per hour of Zone 2 training in heat  
-- **Replace:** 500–1,000mg sodi
+- **Add:** 0.5–1 L per hour of Zone 2 training in heat ([refine here](https://www.precisionhydration.com/performance-advice/hydration/how-to-measure-your-sweat-rate/))
+- **Replace:** 500–1,000mg sodium per 1L ([learn more here](https://www.precisionhydration.com/performance-advice/hydration/how-to-estimate-sweat-salt-loss/))
