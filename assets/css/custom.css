@@ -10,6 +10,22 @@
   background-color: #ffffff;
   border-bottom: 1px solid #e5e7eb;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Indent site title and navigation */
+.site-title {
+  padding-left: 20px;
+}
+
+.site-navigation {
+  padding-left: 20px;
+}
+
+/* Add spacing before site description */
+.site-description {
+  margin-top: 2em;
 }
 
 /* Add padding to body to account for fixed header */
@@ -21,6 +37,19 @@
 @media (max-width: 800px) {
   .site .inner {
     padding-top: 100px;
+  }
+
+  .site-header {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .site-title {
+    padding-left: 10px;
+  }
+
+  .site-navigation {
+    padding-left: 10px;
   }
 }
 
