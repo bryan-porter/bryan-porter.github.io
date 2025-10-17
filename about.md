@@ -9,7 +9,7 @@ permalink: /about/
 
 
 <figure class="post-hero">
-  <img src="/images/about.png" alt="power">
+  <img src="/images/about.png" alt="love">
   <figcaption></figcaption>
 </figure>
 
@@ -64,8 +64,6 @@ I’m always open to conversations and welcome the learning.
 
 
 
-
-
 <form action="https://formspree.io/f/mwpryavy" method="POST" class="contact-form">
   <div class="field">
     <label for="email">Your Email</label>
@@ -77,19 +75,17 @@ I’m always open to conversations and welcome the learning.
     <textarea id="message" name="message" rows="5" placeholder="What’s on your mind?" required></textarea>
   </div>
 
-  <!-- honeypot (hidden from users) -->
-  <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute; left:-9999px;">
+  <!-- honeypot -->
+  <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;">
 
-  <!-- optional redirect after submit -->
-  <input type="hidden" name="_next" value="https://bryan-porter.com/thanks/">
+  <!-- ✅ correct redirect field -->
+  <input type="hidden" name="_redirect" value="https://bryan-porter.com/thanks/">
 
   <!-- optional custom subject -->
   <input type="hidden" name="_subject" value="New message from your website">
 
   <button type="submit">Send</button>
 </form>
-
-
 
 
 
