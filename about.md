@@ -8,6 +8,10 @@ permalink: /about/
 
 ![About](/images/about.png)
 
+Mt. Timpanogos — Recce for a 50-mile mountain race, Sept 2024.  
+
+
+
 I’ve spent most of my life learning how to perform under pressure — sometimes by choice, sometimes by necessity.  
 
 The details don’t matter as much as the pattern: challenges, discipline, adaptation. I’ve seen how hardship forges clarity, and how small, consistent actions can rebuild almost anything.  
@@ -47,11 +51,39 @@ If you strip away the spreadsheets and training logs, it all comes down to one q
 
 ---
 
+<div class="get-in-touch">
+
 ## Get in Touch
 
-If something here resonates or even better if you have a variant view, reach out. I’m always open to conversations and welcome the learning.
+If something here resonates — or better, if you see it differently — reach out.  
+I’m always open to conversations and welcome the learning.
 
-→ [email protected]
+
+
+<form action="https://formspree.io/f/mwpryavy" method="POST" class="contact-form">
+  <label for="email">
+    Your Email
+    <input id="email" type="email" name="_replyto" placeholder="you@example.com" autocomplete="email" required>
+  </label>
+  <label for="message">
+    Message
+
+    <textarea id="message" name="message" rows="5" placeholder="What’s on your mind?" required></textarea>
+  </label>
+
+  <!-- Honeypot for spam bots -->
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+
+  <!-- Optional: redirect after submit -->
+  <input type="hidden" name="_next" value="https://bryan-porter.com/thanks/">
+
+  <!-- Optional: custom subject -->
+  <input type="hidden" name="_subject" value="New message from your website">
+
+  <button type="submit" aria-label="Send message">Send</button>
+</form>
+
+
 
 
 

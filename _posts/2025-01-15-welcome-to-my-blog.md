@@ -5,19 +5,17 @@ date: 2025-01-15 10:00:00 -0800
 tags: [health, ai, investing]
 ---
 
-
-
-![Welcome](../images/bridge.jpg)
+<img src="../images/bridge.jpg" alt="you are loved" style="width: 1200px; display: block; margin-left: 0;">
 
 *Dolomites, Italy  — My first marathon, July 2024.* 
 
 
 
-# strong convictions, loosely held
+# Strong convictions, loosely held
 
-In the essay "The Fixation of Belief", Charles Sanders Peirce argued that inquiry begins with doubt and progresses through experimentation and reasoning — meaning beliefs should be held tentatively, always open to revision when confronted with new evidence. This set the intellectual foundation for “strong convictions, loosely held.” 
+In 1877, in his essay "The Fixation of Belief", Charles Sanders Peirce argued that inquiry begins with doubt and progresses through experimentation and reasoning — meaning beliefs should be held tentatively, always open to revision when confronted with new evidence. This set the intellectual foundation for “strong convictions, loosely held.” 
 
-This blog seeks to publish information that the author finds useful, but when the facts change, hopefully we can change our minds.  to that end, please reach out if you have a different point of view, and I will be grateful for the insight.  I'm not a doctor and this is not medical advice, hopefully it's helpful, feel free to delete.    
+This blog seeks to publish information that the author finds useful, but when the facts change, hopefully we can change our minds. To that end, please reach out if you have a different point of view, and I will be grateful for the insight.  I'm not a doctor and this is not medical advice, hopefully it's helpful, feel free to delete.    
 
 
 

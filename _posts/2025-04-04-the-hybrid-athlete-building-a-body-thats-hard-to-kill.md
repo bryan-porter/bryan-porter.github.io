@@ -10,7 +10,6 @@ tags: ["training","longevity","health","hybrid-athlete","performance"]
   <img src="../images/hybrid-af.jpeg" alt="power">
   <figcaption></figcaption>
 </figure>
-
 *Zion National Park  — Savage buddy who slept in his wetsuit for a week climbing out of rivers. We've raced 50K and 100K mountain races together while maintaining strength.*
 
 

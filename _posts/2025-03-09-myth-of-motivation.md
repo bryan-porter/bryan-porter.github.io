@@ -6,7 +6,7 @@ excerpt: "Motivation is unreliable. Momentum isn’t. Here’s how to move when 
 tags: ["discipline","mindset","momentum","behavioral-design","health"]
 ---
 
-<img src="../images/sun.jpg" alt="jump" style="width: 500px; display: block; margin-left: 0;">
+<img src="../images/sun.jpg" alt="jump" style="width: 1200px; display: block; margin-left: 0;">
 
 *Dolomites, Italy  — Shakeout run ahead of a thunderstorm (that I didn't quite avoid).*
 
@@ -22,10 +22,10 @@ tags: ["discipline","mindset","momentum","behavioral-design","health"]
 We glorify motivation like it’s a magic switch — as if every meaningful act begins with a spark of inspiration.  
 It doesn’t.  
 
-Most days, the spark never comes. The real work begins when you move anyway.  
+Many days, the spark never comes. The real work begins when you move anyway.  
 
 When I was rebuilding my life, I didn’t wake up inspired. I woke up tired, uncertain, and often angry. But I had one rule: **do something small that moves me forward.**  
-That simple principle — *mood follows action* — rewired everything.  
+That simple principle — *mood follows action* — rewired everything.  Thank you Rich Roll.   
 
 ---
 
@@ -48,7 +48,8 @@ That’s the trick:
 > Your brain rewards the pursuit, not the finish line.
 
 This is why elite performers ritualize motion. They act first, feel second.  
-The action precedes the emotion. The movement precedes the meaning.  
+The action precedes the emotion. The movement precedes the meaning. 
+**You'd never say, "Give me heat, and then I'll light the fire".**  
 
 ---
 
@@ -56,18 +57,25 @@ The action precedes the emotion. The movement precedes the meaning.
 
 Here’s how to engineer consistency when you don’t feel it:
 
-### 1. **Lower the Bar**
+### 1. **Lower the Bar until it's repeatable**
 Set the minimum viable action.  
 If you plan to run 5 miles, make the rule: *put on shoes, step outside*.  
-If that’s all you do, fine — you’ve won. Most days, momentum takes it from there.
+If you make it to the end of the driveway and turnaround, fine — you’ve won. Most days, momentum takes it from there.
 
 ### 2. **Stack Habits**
 Attach the new behavior to an existing one.  
-Do 10 squats after you brush your teeth. Write one sentence after your morning coffee.  
+Do 10 air squats every time you stand up. Write one sentence after your morning coffee.  
 The context cues the behavior automatically.
 
 ### 3. **Measure What Matters**
-Track streak. 
+
+Track the streak, not the scale.
+Don’t obsess over outputs — focus on *inputs* you can control.
+
+Counting workouts, words written, or days of Wim breathing builds feedback and momentum.
+Each check mark reinforces identity: *I’m someone who shows up.*
+
+When the data reflects consistency, motivation becomes irrelevant — because progress is already visible
 
 
 

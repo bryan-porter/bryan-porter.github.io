@@ -104,3 +104,11 @@ Disclaimer: This post is for educational purposes only. Consult your physician b
 - *Always practice in a safe environment.  Don't do the breathing exercises in a swimming pool, before going underwater, beneath the shower or piloting any vehicle, without proper supervision.*
 - *Keep in mind to do the exercises without forcing them, gradually build up, and don't exceed your limits.*
 - *Note that tinnitus symptoms may appear as a result of pushing too forcefully during the breathing exercise. If this happens, take a step back in your future practice, it’s important to increase gradually, not forcefully.*
+
+
+
+
+
+...you are loved 
+
+<img src="../images/you are loved.png" alt="you are loved" style="width: 130px; display: block; margin-left: 0;">
