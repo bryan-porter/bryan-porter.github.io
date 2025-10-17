@@ -6,9 +6,14 @@ permalink: /about/
 
 
 
-![About](/images/about.png)
 
-Mt. Timpanogos — Recce for a 50-mile mountain race, Sept 2024.  
+
+<figure class="post-hero">
+  <img src="/images/about.png" alt="power">
+  <figcaption></figcaption>
+</figure>
+
+*Mt. Timpanogos — Recce for a 50-mile mountain race, Sept 2024.* 
 
 
 
@@ -51,7 +56,6 @@ If you strip away the spreadsheets and training logs, it all comes down to one q
 
 ---
 
-<div class="get-in-touch">
 
 ## Get in Touch
 
@@ -60,27 +64,29 @@ I’m always open to conversations and welcome the learning.
 
 
 
+
+
 <form action="https://formspree.io/f/mwpryavy" method="POST" class="contact-form">
-  <label for="email">
-    Your Email
+  <div class="field">
+    <label for="email">Your Email</label>
     <input id="email" type="email" name="_replyto" placeholder="you@example.com" autocomplete="email" required>
-  </label>
-  <label for="message">
-    Message
+  </div>
 
+  <div class="field">
+    <label for="message">Message</label>
     <textarea id="message" name="message" rows="5" placeholder="What’s on your mind?" required></textarea>
-  </label>
+  </div>
 
-  <!-- Honeypot for spam bots -->
-  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+  <!-- honeypot (hidden from users) -->
+  <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute; left:-9999px;">
 
-  <!-- Optional: redirect after submit -->
+  <!-- optional redirect after submit -->
   <input type="hidden" name="_next" value="https://bryan-porter.com/thanks/">
 
-  <!-- Optional: custom subject -->
+  <!-- optional custom subject -->
   <input type="hidden" name="_subject" value="New message from your website">
 
-  <button type="submit" aria-label="Send message">Send</button>
+  <button type="submit">Send</button>
 </form>
 
 
