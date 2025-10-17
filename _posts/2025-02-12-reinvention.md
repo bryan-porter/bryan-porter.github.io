@@ -4,13 +4,16 @@ title:  "From Chaos to Clarity: The Discipline of Reinvention"
 date:   2025-02-12
 excerpt: "How I chose to grow through the cracks — not by avoiding chaos, but by mastering it."
 tags: ["reinvention","discipline","mindset","health"]
+
 ---
 
+<img src="../images/sun and trees.jpg" alt="you are loved" style="width: 1000px; display: block; margin-left: 0;">
+
+*Marin, CA  — Last long run before a race, on a romantic getaway while my wife was sleeping.* 
+
+
+
 > “Reinvention isn’t a single act — it’s a practice. You don’t need perfect conditions. You just need to decide: orchid or weed.”
-
-<img src="../images/sun and trees.jpg" alt="you are loved" style="width: 500px; display: block; margin-left: 0;">
-
-
 
 ## From Chaos to Clarity: The Discipline of Reinvention
 

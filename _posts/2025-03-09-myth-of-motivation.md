@@ -6,9 +6,11 @@ excerpt: "Motivation is unreliable. Momentum isn’t. Here’s how to move when 
 tags: ["discipline","mindset","momentum","behavioral-design","health"]
 ---
 
-
-
 <img src="../images/sun.jpg" alt="jump" style="width: 500px; display: block; margin-left: 0;">
+
+*Dolomites, Italy  — Shakeout run ahead of a thunderstorm (that I didn't quite avoid).*
+
+  
 
 
 > “If you wait until you feel ready, you’ll never start.”

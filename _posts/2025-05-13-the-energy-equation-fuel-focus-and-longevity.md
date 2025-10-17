@@ -8,8 +8,10 @@ tags: ["nutrition","metabolism","performance","longevity","health"]
 
 <figure class="post-hero">
   <img src="../images/ojai.jpg" alt="jump">
-  <figcaption>Summit of a 15 mile run in Ojai, CA visitng a friend from NYC.</figcaption>
+  <figcaption></figcaption>
 </figure>
+
+*Ojai, CA —  Summit of a 15 mile run visiting a friend from NYC.*
 
 
 

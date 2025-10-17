@@ -8,8 +8,12 @@ tags: ["training","longevity","health","hybrid-athlete","performance"]
 
 <figure class="post-hero">
   <img src="../images/hybrid-af.jpeg" alt="power">
-  <figcaption>Fit enough to endure. Strong enough to recover.</figcaption>
+  <figcaption></figcaption>
 </figure>
+
+*Zion National Park  — Savage buddy who slept in his wetsuit for a week climbing out of rivers. We've raced 50K and 100K mountain races together while maintaining strength.*
+
+
 
 
 > “Be the kind of human you can drop into any environment — and thrive.”
@@ -44,13 +48,13 @@ That’s what strength and endurance training really teach: how to keep showing 
 
 I think of training like portfolio construction:
 
-| Category                    | Allocation            | Objective                                                |
-| --------------------------- | --------------------- | -------------------------------------------------------- |
-| **Strength**                | 2–4 sessions/week     | Preserve and build muscle; improve power-to-weight ratio |
-| **Zone 1 & 2 Cardio**       | 4-12 hrs/week         | Build mitochondrial density and metabolic flexibility    |
-| **High Intensity / Zone 5** | 1 session/week        | Maintain top-end performance; raise VO₂ max              |
-| **Mobility / Prehab**       | 10 mins / 1-2x per ay | Prevent injuries, improve longevity                      |
-| **Recovery**                | Daily                 | Sleep, nutrition, breathwork, and active recovery        |
+| Category                    | Allocation           | Objective                                                  |
+| --------------------------- | -------------------- | ---------------------------------------------------------- |
+| **Strength**                | 2–4 sessions/week    | Preserve and build muscle; improve power-to-weight ratio   |
+| **Zone 1 & 2 Cardio**       | 4-12 hrs/week        | Build mitochondrial density and metabolic flexibility      |
+| **High Intensity / Zone 5** | 1 session/week       | Maintain top-end performance; raise VO₂ max                |
+| **Mobility / Prehab**       | 10 mins/1-2x per day | Prevent injuries, improve longevity, not sexy but worth it |
+| **Recovery**                | Daily                | Sleep, nutrition, breathwork, and active recovery          |
 
 Your body *is* a portfolio. Consistency is the compound interest.  
 

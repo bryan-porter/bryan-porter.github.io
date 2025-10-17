@@ -10,8 +10,7 @@ tags: ["breathwork","nervous system","stress","recovery","health"]
   <img src="../images/banff.jpg" alt="power">
   <figcaption></figcaption>
 </figure>
-
-*Banff, Alberta Canada. Hike with the family in Summer 2025*
+*Banff, Alberta,Canada — Hike with the family in Summer 2025.*
 
 
 
