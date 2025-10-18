@@ -13,7 +13,7 @@ permalink: /about/
   <figcaption></figcaption>
 </figure>
 
-*Mt. Timpanogos — Recce for a 50-mile mountain race, Sept 2024.* 
+*Mt. Timpanogos — Recon for a 50-mile mountain race, Sept 2024.* 
 
 
 
@@ -86,6 +86,8 @@ I’m always open to conversations and welcome the learning.
 
   <button type="submit">Send</button>
 </form>
+
+
 
 
 
