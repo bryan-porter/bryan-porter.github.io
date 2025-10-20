@@ -63,6 +63,24 @@ Technical training tips
 
 
 
+#### Nate Meikle podcast 
+
+[https://natemeikle.com/podcast/](https://natemeikle.com/podcast/)
+
+Leadership, life advice, fun
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
