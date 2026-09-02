@@ -29,9 +29,9 @@ export default function ContactPage() {
     // Create mailto link for static deployment
     const subject = encodeURIComponent(formData.subject);
     const body = encodeURIComponent(`From: ${formData.from}\n\n${formData.message}`);
-    const mailtoLink = `mailto:jpgrigor@usc.edu?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:bryan@bryan-porter.com?subject=${subject}&body=${body}`;
     
-    window.open(mailtoLink, '_blank');
+    window.location.href = mailtoLink;
     
     toast({
       title: "Opening your email client...",
@@ -76,6 +76,7 @@ export default function ContactPage() {
                     value={formData.from}
                     onChange={(e) => setFormData(prev => ({ ...prev, from: e.target.value }))}
                     placeholder="bryan@bryan-porter.com"
+                    maxLength={254}
                     className="w-full bg-terminal-bg border border-terminal-green p-2 text-terminal-green font-mono text-sm focus:outline-none focus:border-terminal-green-bright"
                     data-testid="email-input"
                   />
@@ -87,6 +88,7 @@ export default function ContactPage() {
                     value={formData.subject}
                     onChange={(e) => setFormData(prev => ({ ...prev, subject: e.target.value }))}
                     placeholder="Enter subject line"
+                    maxLength={120}
                     className="w-full bg-terminal-bg border border-terminal-green p-2 text-terminal-green font-mono text-sm focus:outline-none focus:border-terminal-green-bright"
                     data-testid="subject-input"
                   />
@@ -98,6 +100,7 @@ export default function ContactPage() {
                     value={formData.message}
                     onChange={(e) => setFormData(prev => ({ ...prev, message: e.target.value }))}
                     placeholder="Type your message here..."
+                    maxLength={4000}
                     className="w-full bg-terminal-bg border border-terminal-green p-2 text-terminal-green font-mono text-sm focus:outline-none focus:border-terminal-green-bright resize-none"
                     data-testid="message-textarea"
                   />

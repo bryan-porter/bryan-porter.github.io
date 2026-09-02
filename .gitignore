@@ -12,8 +12,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-Gemfile.lock
 
 # Ruby
 .bundle
 *.gem
+
+# Local configuration and secrets
+.env*
+!.env.example

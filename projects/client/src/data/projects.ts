@@ -14,7 +14,7 @@ export const projects: Project[] = [
     title: "Endurance manual",
     description: "Science and practical guides on building fitness to move fast through the mountains",
     techStack: "paperback, audiobook",
-    Url: "https://uphillathlete.com/product/training-for-the-uphill-athlete-book/",
+    githubUrl: null,
     liveUrl: "https://uphillathlete.com/product/training-for-the-uphill-athlete-book/",
     featured: true
   },
@@ -23,7 +23,7 @@ export const projects: Project[] = [
     title: "Core workout",
     description: "Very good workout for core",
     techStack: "youtube",
-    Url: "https://www.youtube.com/watch?v=IKqpbU1Y3bU",
+    githubUrl: null,
     liveUrl: "https://www.youtube.com/watch?v=IKqpbU1Y3bU",
     featured: true
   }

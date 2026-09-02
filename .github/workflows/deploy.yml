@@ -7,11 +7,9 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: false
 
 jobs:
@@ -19,28 +17,61 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@95ef2b042f9d7a56d8268cba8559e2842e2ad01b # v1.321.0
         with:
-          ruby-version: '3.1'
+          ruby-version: .ruby-version
           bundler-cache: true
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Audit Ruby dependencies
+        run: bundle exec bundle-audit check --update
 
-      - name: Build with Jekyll
-        run: bundle exec jekyll build
+      - name: Setup Pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Verify Jekyll discovery artifacts
+        run: bundle exec ruby tests/verify_jekyll_output.rb
+
+      - name: Setup Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          path: '_site'
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: projects/package-lock.json
+
+      - name: Install portfolio dependencies
+        run: npm ci --prefix projects
+
+      - name: Verify portfolio and repository policies
+        run: npm test --prefix projects
+
+      - name: Typecheck portfolio
+        run: npm run check --prefix projects
+
+      - name: Audit JavaScript dependencies
+        run: npm audit --prefix projects --audit-level=moderate
+
+      - name: Build static portfolio
+        run: npm run build --prefix projects
+        env:
+          PROJECTS_OUT_DIR: ../_site/projects
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: _site
 
   deploy:
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -49,4 +80,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

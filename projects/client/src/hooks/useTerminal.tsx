@@ -4,7 +4,7 @@ import { useLocation } from "wouter";
 export function useTerminal() {
   const [isBooting, setIsBooting] = useState(true);
   const [currentTime, setCurrentTime] = useState(new Date());
-  const [, setLocation] = useLocation();
+  const [location, setLocation] = useLocation();
 
   useEffect(() => {
     // Auto-finish boot after 3 seconds or on any key press
@@ -46,14 +46,14 @@ export function useTerminal() {
         // Arrow keys for navigation
         if (e.key === 'ArrowRight') {
           const pages = ['/', '/about', '/projects', '/contact'];
-          const currentIndex = pages.indexOf(window.location.pathname);
+          const currentIndex = pages.indexOf(location);
           const nextIndex = (currentIndex + 1) % pages.length;
           setLocation(pages[nextIndex]);
         }
         
         if (e.key === 'ArrowLeft') {
           const pages = ['/', '/about', '/projects', '/contact'];
-          const currentIndex = pages.indexOf(window.location.pathname);
+          const currentIndex = pages.indexOf(location);
           const prevIndex = (currentIndex - 1 + pages.length) % pages.length;
           setLocation(pages[prevIndex]);
         }
@@ -62,7 +62,7 @@ export function useTerminal() {
       document.addEventListener('keydown', handleKeyDown);
       return () => document.removeEventListener('keydown', handleKeyDown);
     }
-  }, [isBooting, setLocation]);
+  }, [isBooting, location, setLocation]);
 
   const processCommand = (command: string) => {
     const cmd = command.toLowerCase().trim();

@@ -1,4 +1,6 @@
+import typography from "@tailwindcss/typography";
 import type { Config } from "tailwindcss";
+import animate from "tailwindcss-animate";
 
 export default {
   darkMode: ["class"],
@@ -61,12 +63,12 @@ export default {
           border: "var(--sidebar-border)",
           ring: "var(--sidebar-ring)",
         },
-        'terminal-bg': 'var(--terminal-bg)',
-        'terminal-green': 'var(--terminal-green)',
-        'terminal-green-dim': 'var(--terminal-green-dim)',
-        'terminal-green-bright': 'var(--terminal-green-bright)',
-        'terminal-amber': 'var(--terminal-amber)',
-        'terminal-dark-green': 'var(--terminal-dark-green)',
+        "terminal-bg": "var(--terminal-bg)",
+        "terminal-green": "var(--terminal-green)",
+        "terminal-green-dim": "var(--terminal-green-dim)",
+        "terminal-green-bright": "var(--terminal-green-bright)",
+        "terminal-amber": "var(--terminal-amber)",
+        "terminal-dark-green": "var(--terminal-dark-green)",
       },
       fontFamily: {
         sans: ["var(--font-sans)"],
@@ -75,36 +77,28 @@ export default {
       },
       keyframes: {
         "accordion-down": {
-          from: {
-            height: "0",
-          },
-          to: {
-            height: "var(--radix-accordion-content-height)",
-          },
+          from: { height: "0" },
+          to: { height: "var(--radix-accordion-content-height)" },
         },
         "accordion-up": {
-          from: {
-            height: "var(--radix-accordion-content-height)",
-          },
-          to: {
-            height: "0",
-          },
+          from: { height: "var(--radix-accordion-content-height)" },
+          to: { height: "0" },
         },
         blink: {
-          '0%, 50%': { opacity: '1' },
-          '51%, 100%': { opacity: '0' },
+          "0%, 50%": { opacity: "1" },
+          "51%, 100%": { opacity: "0" },
         },
         scanline: {
-          '0%': { transform: 'translateY(-100vh)' },
-          '100%': { transform: 'translateY(100vh)' },
+          "0%": { transform: "translateY(-100vh)" },
+          "100%": { transform: "translateY(100vh)" },
         },
         typewriter: {
-          from: { width: '0' },
-          to: { width: '100%' },
+          from: { width: "0" },
+          to: { width: "100%" },
         },
         bootFade: {
-          from: { opacity: '0' },
-          to: { opacity: '1' },
+          from: { opacity: "0" },
+          to: { opacity: "1" },
         },
       },
       animation: {
@@ -117,5 +111,5 @@ export default {
       },
     },
   },
-  plugins: [require("tailwindcss-animate"), require("@tailwindcss/typography")],
+  plugins: [animate, typography],
 } satisfies Config;

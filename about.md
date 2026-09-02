@@ -67,12 +67,12 @@ I’m always open to conversations and welcome the learning.
 <form action="https://formspree.io/f/mwpryavy" method="POST" class="contact-form">
   <div class="field">
     <label for="email">Your Email</label>
-    <input id="email" type="email" name="_replyto" placeholder="you@example.com" autocomplete="email" required>
+    <input id="email" type="email" name="_replyto" placeholder="you@example.com" autocomplete="email" maxlength="254" required>
   </div>
 
   <div class="field">
     <label for="message">Message</label>
-    <textarea id="message" name="message" rows="5" placeholder="What’s on your mind?" required></textarea>
+    <textarea id="message" name="message" rows="5" placeholder="What’s on your mind?" maxlength="5000" required></textarea>
   </div>
 
   <!-- honeypot -->

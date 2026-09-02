@@ -4,7 +4,7 @@ import { blogPosts, type BlogPost } from "@/data/blogPosts";
 
 export default function BlogPostPage() {
   const [, params] = useRoute("/post/:slug");
-  const [location, setLocation] = useLocation();
+  const [, setLocation] = useLocation();
   
   const post = blogPosts.find(p => p.slug === params?.slug);
 
@@ -37,7 +37,7 @@ export default function BlogPostPage() {
               </div>
               <div className="mt-4">
                 <button 
-                  onClick={() => window.history.back()}
+                  onClick={() => setLocation('/')}
                   className="border border-terminal-green px-4 py-2 hover:bg-terminal-green hover:text-terminal-bg transition-colors"
                   data-testid="back-button"
                 >
@@ -118,7 +118,7 @@ export default function BlogPostPage() {
       {/* Navigation */}
       <section className="flex justify-between items-center">
         <button 
-          onClick={() => window.history.back()}
+          onClick={() => setLocation('/')}
           className="border border-terminal-green px-6 py-2 hover:bg-terminal-green hover:text-terminal-bg transition-colors"
           data-testid="back-button"
         >
@@ -147,7 +147,7 @@ export default function BlogPostPage() {
               .map(relatedPost => (
                 <div key={relatedPost.id}>
                   <button
-                    onClick={() => window.location.href = `/post/${relatedPost.slug}`}
+                    onClick={() => setLocation(`/post/${relatedPost.slug}`)}
                     className="text-terminal-green hover:text-terminal-green-bright transition-colors"
                     data-testid={`related-post-${relatedPost.id}`}
                   >

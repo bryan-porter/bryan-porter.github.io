@@ -33,9 +33,6 @@ navigation:
   - text: About
     url: /about/
 
-# The shortname for your Disqus site to enable comments.
-disqus: ""
-
 # Colors
 accent_color: '#d1d5db'
 
@@ -47,6 +44,7 @@ footer:
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 3
@@ -63,3 +61,9 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+# The portfolio is built separately into _site/projects. Excluding its source
+# prevents server scaffolding, package metadata, and source files from entering
+# the Pages artifact.
+exclude:
+  - projects

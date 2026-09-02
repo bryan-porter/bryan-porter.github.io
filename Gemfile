@@ -1,14 +1,17 @@
 source "https://rubygems.org"
 
-# This will help ensure the proper Jekyll version is running.
-gem "jekyll", "~> 4.3"
+ruby ">= 3.4", "< 3.5"
 
-group :jekyll_plugins do
-  gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
-end
+gem "jekyll", "4.4.1"
+gem "jekyll-paginate", "1.1.0"
+gem "jekyll-sitemap", "1.4.0"
 
-
+# These standard-library gems are explicit because Ruby 3.4 no longer bundles
+# every library Jekyll expects.
+gem "bigdecimal", "~> 3.1"
 gem "csv", "~> 3.3"
 gem "logger", "~> 1.7"
-gem "bigdecimal", "~> 3.1"
+
+group :development do
+  gem "bundler-audit", "0.9.3", require: false
+end
