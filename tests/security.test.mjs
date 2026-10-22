@@ -141,7 +141,7 @@ test("the JavaScript dependency surface is minimal, exact, and supported", () =>
   ]) {
     assert.match(version, /^\d+\.\d+\.\d+$/, `${version} must be exact`);
   }
-  assert.match(packageJson.engines.node, />=22\.12/);
+  assert.equal(packageJson.engines.node, '^22.23.4 || ^24.22.1');
   assert.equal(packageJson.scripts.start, undefined);
   assert.equal(packageJson.scripts.dev.includes("--host"), false);
   assert.equal(packageJson.scripts.audit, "npm audit --audit-level=moderate");
